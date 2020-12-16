@@ -1,0 +1,26 @@
+{
+  "name": "cesarski.dev",
+  "version": "1.0.0",
+  "description": "Personal blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acesarski/cesarski.dev.git"
+  },
+  "keywords": [
+    "acesarski",
+    "blog",
+    "personal",
+    "nextjs",
+    "react",
+    "mdx"
+  ],
+  "author": "acesarski",
+  "bugs": {
+    "url": "https://github.com/acesarski/cesarski.dev/issues"
+  },
+  "homepage": "https://cesarski.dev"
+}
